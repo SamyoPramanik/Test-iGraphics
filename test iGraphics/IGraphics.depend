@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1675527159 source:d:\igraphics\test igraphics\imain.cpp
+	"iGraphics.h"
+
+1675345574 d:\igraphics\test igraphics\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"glut.h"
+	<time.h>
+	<math.h>
+	"glaux.h"
+
+1675345574 d:\igraphics\test igraphics\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1675345574 d:\igraphics\test igraphics\opengl\include\glaux.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
